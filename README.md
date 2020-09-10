@@ -9,9 +9,9 @@ The file radical_formulas.m contains the formulas for radical N-isogenies for N 
 ..., 13. More precisely, let E be an elliptic curve in a general form such that P =
 (0,0) is an N-torsion point. Formulas are given for:
 - the Tate-Pairing t of (P,-P) in function of the coefficients of E;
-- an N-torsion point PA on EA = E/<P> defined over a field that is obtained
+- an N-torsion point PA on EA = E/&lt;P&gt; defined over a field that is obtained
   by adjoining an N-th root of t; furthermore, PA is the canonical N-torsion
-  point such that dual isogeny of E -> E/<P> maps PA to the point Q such that N*Q=P;
+  point such that dual isogeny of E -> E/&lt;P&gt; maps PA to the point Q such that N*Q=P;
 - an isomorpic form Eiso of EA such that PA is translated to (0,0) and Eiso has
   the same form as E.
 
